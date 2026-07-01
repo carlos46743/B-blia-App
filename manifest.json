@@ -1,0 +1,31 @@
+{
+    "name": "Bíblia Sagrada",
+    "short_name": "Bíblia",
+    "description": "A Bíblia Sagrada completa no seu dispositivo",
+    "start_url": "index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#f8f0e7",
+    "theme_color": "#b48b6b",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23b48b6b'/><text x='50' y='72' font-size='60' text-anchor='middle' fill='white'>📖</text></svg>",
+            "sizes": "192x192",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23b48b6b'/><text x='50' y='72' font-size='60' text-anchor='middle' fill='white'>📖</text></svg>",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 800'><rect width='400' height='800' fill='%23f8f0e7'/><text x='50' y='200' font-size='40' fill='%232f241a'>📖 Bíblia App</text></svg>",
+            "sizes": "400x800",
+            "type": "image/svg+xml"
+        }
+    ]
+}
